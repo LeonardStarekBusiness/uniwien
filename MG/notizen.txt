@@ -1,1 +1,10 @@
+MGI
 
+01.10.2025
+Literatur: Mathematik für Informatiker, Springer, 7. Auflage, 2019
+Inhalt: I) Beweistechnik
+II) Mengen & Relationen
+III) Algebraische Strukturen
+IV) Vektorräume
+V) Matrizen & Lineare Algebra
+VI) Graphentheorie
