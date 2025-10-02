@@ -8,3 +8,6 @@ III) Algebraische Strukturen
 IV) Vektorräume
 V) Matrizen & Lineare Algebra
 VI) Graphentheorie
+
+02.10.2025
+Beweistechniken
