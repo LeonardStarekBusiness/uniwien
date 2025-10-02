@@ -5,3 +5,5 @@ Erste 3 Kapitel: Zahlen | Logik | Physikalische Grundl.
 Kommazahlen in Binär: Negative Exponenten
 Binäre Substragierujgnsuhjd: Addition (zweite zahl invertieren)
 wenn ergebnis negativ ist (=Übertrag nicht vorhanden): nochmal komplementieren
+anschauen: Festkomma & Fließkommazahlen
+anschauen: Rundungsfehleranalyse
