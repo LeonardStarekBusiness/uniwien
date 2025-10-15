@@ -14,3 +14,15 @@ Beweistechniken
 
 15.10.2025
 Vollständige Induktion
+-anfang, -annahme, -schluss
+Relationen (bsp < ) Teilmenge des karth. Produktes M und N mit Bedingung.
+wenn M = N: xRy
+bzw (x,y) ist entweder in einer Teilmenge von M*N oder nicht.
+Reflexive Relationen ( <= ist reflexiv)
+Reflexiv, Symmetrie, Transitivität
+Reflexiv: xRx
+Symmetrie: xRy -> yRx
+Transitivität: xRy yRz -> xRz
+--> Äquivalenzrelation
+
+
