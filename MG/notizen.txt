@@ -11,3 +11,6 @@ VI) Graphentheorie
 
 02.10.2025
 Beweistechniken
+
+15.10.2025
+Vollständige Induktion
