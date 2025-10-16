@@ -19,3 +19,8 @@ mantisse normieren, einer weg, mit 0ern füllen
 
 09.10.2025
 Boolean Logik shit
+
+16.10.2025
+TRANSISTOREN
+Halbleiter (Silicium, Germanium)
+MOSFET Transistor & NMOS & PMOS
