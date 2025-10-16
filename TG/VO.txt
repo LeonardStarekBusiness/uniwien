@@ -1,0 +1,21 @@
+TGI
+Literatur: Springer, eine kurze Geschichte der Technischen Informatik
+
+02.10.2025
+Erste 3 Kapitel: Zahlen | Logik | Physikalische Grundl.
+Kommazahlen in Binär: Negative Exponenten
+Binäre Substraktion a - b : Addition a + (b invertieren) + 1
+Übertrag 0: Ergebnis invertieren | Übertrag 1: Ergebnis
+Festkomma / fixed p. (.) & Fließkommazahlen floating p. (,)
+Float: signbit + mantisse + (basis) hoch exponent
+mantisse: genauigkeit / wert
+exponent: größenordnung
+single-precision: 32 bit: 1 + 8 + 23
+double-precision: 64 bit: 1 + 11 + 52
+ins dualsystem umwandeln: vorkomma: binär,
+nachkomma: solang mal 2 bis Rest==0 + 0 oder 1 hinschreiben
+exponent: 127 + vorkommastellen der mantisse in binär,
+mantisse normieren, einer weg, mit 0ern füllen
+
+09.10.2025
+Boolean Logik shit
