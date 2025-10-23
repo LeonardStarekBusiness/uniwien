@@ -24,3 +24,4 @@ Reflexiv: xRx
 Symmetrie: xRy -> yRx
 Transitivität: xRy yRz -> xRz
 --> Äquivalenzrelation
+ 
