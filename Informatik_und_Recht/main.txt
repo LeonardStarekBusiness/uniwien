@@ -46,3 +46,18 @@ Richtlinie (Umsetzung in nationales Rechtssystem)
 Beschluss
 Verordnung
 Empfehlung
+
+Organe der EU: Rat, Europäischer Rat;
+
+
+
+20.10.2025
+
+
+27.10.2025
+
+GDPR:
+1) enable free flow of data
+2) protect natural persons personal data
+Data Subject, Controller, Processor
+data > personal data > sensible data
